@@ -1,0 +1,7 @@
+{
+  "localPath": "C:/projects/minima",
+  "ragSettings": {
+    "embeddingModel": "sentence-transformers/all-mpnet-base-v2",
+    "embeddingSize": 768
+  }
+}
