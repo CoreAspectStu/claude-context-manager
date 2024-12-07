@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "minima": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "C:/projects/minima/mcp-server",
+        "run",
+        "minima"
+      ]
+    }
+  }
+}
