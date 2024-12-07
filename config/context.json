@@ -1,0 +1,11 @@
+{
+  "storage": {
+    "basePath": "c:/github_repository/context-storage",
+    "ragPath": "c:/github_repository/context-storage/rag"
+  },
+  "options": {
+    "autoSave": true,
+    "updateInterval": 1000,
+    "maxRagEntries": 5
+  }
+}

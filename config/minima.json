@@ -1,0 +1,12 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "endpoints": {
+    "query": "/api/query",
+    "status": "/api/status"
+  },
+  "settings": {
+    "embeddingModel": "sentence-transformers/all-mpnet-base-v2",
+    "embeddingSize": 768,
+    "ragEnabled": true
+  }
+}
